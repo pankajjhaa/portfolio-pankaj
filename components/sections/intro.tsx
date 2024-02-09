@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
               src="/pankaj.jpg"
-              alt="Ricardo portrait"
+              alt="Pankaj Jha"
               width="192"
               height="192"
               quality="95"
