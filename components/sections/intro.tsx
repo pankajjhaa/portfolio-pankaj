@@ -96,7 +96,7 @@ export default function Intro() {
        <Button variant="ghost" className="group bg-gray-900 text-white hover:text-white px-7 py-3 rounded-xl outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition">
           <a
             className="flex items-center gap-2"
-            href="/pankajCv.pdf"
+            href="/pankajCV.pdf"
             download
           >
             Download CV{" "}
