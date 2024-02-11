@@ -75,9 +75,9 @@ export const projectsData = [
     imageUrl: foodnfeedimg,
   },
   {
-    title: "DigitalU",
+    title: "Simple Web",
     description:
-      "I worked as a full-stack developer on this project. This is a website builder where users can register and create the website on their own.",
+      "Streamlined website builder, facilitating easy creation of professional websites with user-friendly features and templates.",
     tags: ["Laravel", "Javascript", "MySql", "JQuery", "Ajax", "AWS", "AWS S3 Bucket"],
     imageUrl: rmtdevImg,
   },
@@ -85,7 +85,7 @@ export const projectsData = [
     title: "Fedecardio",
     description:
       "I wroked as full stack developer",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["Laravel", "Javascript", "MySql", "JQuery", "Ajax", "AWS", "AWS S3 Bucket"],
     imageUrl: wordanalyticsImg,
   },
   {
