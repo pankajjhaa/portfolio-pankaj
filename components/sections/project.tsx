@@ -33,12 +33,12 @@ export default function Project({
     >
       <Card>
         <CardHeader>
-          <Image
-              src={imageUrl}
-              alt="Project I worked on"
-              quality={95}
-              className="w-full h-56 object-cover"
-          />
+          {/*<Image*/}
+          {/*    src={imageUrl}*/}
+          {/*    alt="Project I worked on"*/}
+          {/*    quality={95}*/}
+          {/*    className="w-full h-56 object-cover"*/}
+          {/*/>*/}
 
           <CardTitle className={"mt-2"}>{title}</CardTitle>
           <CardDescription>{description}</CardDescription>

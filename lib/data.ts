@@ -79,35 +79,35 @@ export const projectsData = [
     description:
       "Streamlined website builder, facilitating easy creation of professional websites with user-friendly features and templates.",
     tags: ["Laravel", "Javascript", "MySql", "JQuery", "Ajax", "AWS", "AWS S3 Bucket"],
-    imageUrl: rmtdevImg,
+    imageUrl: foodnfeedimg,
   },
   {
     title: "Fedecardio",
     description:
       "Streamlined website builder, facilitating easy creation of professional websites with user-friendly features and templates.",
     tags: ["Laravel", "Javascript", "MySql", "JQuery", "Ajax", "AWS", "AWS S3 Bucket"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: foodnfeedimg,
   },
   {
     title: "SolidAge",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: foodnfeedimg,
   },
   {
     title: "HrMatters",
     description:
         "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: foodnfeedimg,
   },
   {
     title: "Gres Paris",
     description:
         "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: foodnfeedimg,
   },
 ] as const;
 
