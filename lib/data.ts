@@ -84,7 +84,7 @@ export const projectsData = [
   {
     title: "Fedecardio",
     description:
-      "I wroked as full stack developer",
+      "Streamlined website builder, facilitating easy creation of professional websites with user-friendly features and templates.",
     tags: ["Laravel", "Javascript", "MySql", "JQuery", "Ajax", "AWS", "AWS S3 Bucket"],
     imageUrl: wordanalyticsImg,
   },
@@ -92,6 +92,20 @@ export const projectsData = [
     title: "SolidAge",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: wordanalyticsImg,
+  },
+  {
+    title: "HrMatters",
+    description:
+        "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    imageUrl: wordanalyticsImg,
+  },
+  {
+    title: "Gres Paris",
+    description:
+        "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
